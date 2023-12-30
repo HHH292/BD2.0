@@ -14,4 +14,4 @@ git clone https://github.com/HHH292/BD2.0
 
 cd BD2.0
 
-python BD2.0
+python BD2.0.py
